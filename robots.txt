@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-5l0n1f.planetjp.online/sitemap.xml
